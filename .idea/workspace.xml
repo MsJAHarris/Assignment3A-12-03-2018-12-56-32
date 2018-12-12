@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec2abd72-7779-41e1-95c3-fadf601da457" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Assignment3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2ndPull/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A3Q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A3Q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A3Q3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A3Q4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A3Q5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FromGitClassrm/Assignment3A-11-26-2018-10-11-30/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FromGitClassrm/Assignment3A-11-26-2018-10-11-30/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/BahaaDesoky/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/BahaaDesoky/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/BlitherParrot/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/BlitherParrot/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/BlitherParrot/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/BlitherParrot/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/BlitherParrot/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/BlitherParrot/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/BlitherParrot/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/BlitherParrot/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/BlitherParrot/resources/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/BlitherParrot/resources/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/ChrisLee0727/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/ChrisLee0727/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/ChrisLee0727/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/ChrisLee0727/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/ChrisLee0727/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/ChrisLee0727/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/ChrisLee0727/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/ChrisLee0727/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/ChrisLee0727/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/ChrisLee0727/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/ChrisLee0727/wordlist.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/ChrisLee0727/wordlist.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/DanielNairn/.idea/assignment3a-DanielNairn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/DanielNairn/.idea/assignment3a-DanielNairn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/DanielNairn/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/DanielNairn/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/DanielNairn/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/DanielNairn/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/DanielNairn/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/DanielNairn/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/DanielNairn/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/DanielNairn/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/DanielNairn/Daniel.N.PM&amp;PC.A3.Q1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/DanielNairn/Daniel.N.PM&amp;PC.A3.Q1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/DanielNairn/Daniel.N.PM&amp;PC.A3.Q2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/DanielNairn/Daniel.N.PM&amp;PC.A3.Q2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/DanielNairn/Daniel.N.PM&amp;PC.A3.Q3.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/DanielNairn/Daniel.N.PM&amp;PC.A3.Q3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/DanielNairn/Daniel.N.PM&amp;PC.A3.Q4.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/DanielNairn/Daniel.N.PM&amp;PC.A3.Q4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/DanielNairn/Daniel.N.PM&amp;PC.A3.Q5.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/DanielNairn/Daniel.N.PM&amp;PC.A3.Q5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/DanielNairn/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/DanielNairn/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/DanielNairn/Word_Bank.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/DanielNairn/Word_Bank.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/DanielNairn/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/DanielNairn/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/FarazHossein/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/FarazHossein/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/FarazHossein/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/FarazHossein/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/JackieTreacy/CardClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/JackieTreacy/CardClass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/JackieTreacy/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/JackieTreacy/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/JackieTreacy/JackieTPM&amp;PCA3Q1_trace_table.csv" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/JackieTreacy/JackieTPM&amp;PCA3Q1_trace_table.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/JackieTreacy/JackieTQ2words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/JackieTreacy/JackieTQ2words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/JackieTreacy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/JackieTreacy/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/JackieTreacy/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/JackieTreacy/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/JackieTreacy/msdie.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/JackieTreacy/msdie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/Riolku/CardClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/Riolku/CardClass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/Riolku/CardClassPyGameMerged.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/Riolku/CardClassPyGameMerged.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/Riolku/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/Riolku/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/Riolku/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/Riolku/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/Riolku/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/Riolku/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/Riolku/resources/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/Riolku/resources/words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/RobertIlyes/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/RobertIlyes/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/RobertIlyes/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/RobertIlyes/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/RobertIlyes/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/RobertIlyes/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/RobertIlyes/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/RobertIlyes/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/ShawntheSun/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/ShawntheSun/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/ShawntheSun/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/ShawntheSun/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/ShawntheSun/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/ShawntheSun/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/ShawntheSun/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/ShawntheSun/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/ShawntheSun/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/ShawntheSun/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/dentt3534/.idea/assignment3a-dentt3534.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/dentt3534/.idea/assignment3a-dentt3534.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/dentt3534/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/dentt3534/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/dentt3534/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/dentt3534/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/dentt3534/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/dentt3534/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/dentt3534/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/dentt3534/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/dentt3534/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/dentt3534/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/dentt3534/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/dentt3534/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/dentt3534/Hardware.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/dentt3534/Hardware.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/dentt3534/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/dentt3534/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/dentt3534/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/dentt3534/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/hoe7676/.idea/assignment-3-hoe7676.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/hoe7676/.idea/assignment-3-hoe7676.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/hoe7676/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/hoe7676/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/hoe7676/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/hoe7676/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/hoe7676/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/hoe7676/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/hoe7676/resources/dices/.idea/dices.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/hoe7676/resources/dices/.idea/dices.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/hoe7676/resources/dices/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/hoe7676/resources/dices/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/hoe7676/resources/dices/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/hoe7676/resources/dices/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/hoe7676/resources/dices/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/hoe7676/resources/dices/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/.idea/assignment3a-rhibrundrett.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/.idea/assignment3a-rhibrundrett.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/A3Q1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/A3Q1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/A3Q2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/A3Q2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/A3Q3.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/A3Q3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/A3Q4.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/A3Q4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/A3Q5.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/A3Q5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/HardwareComponents.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/HardwareComponents.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/msdie.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/rhibrundrett/msdie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/shraddhagourishetty/shraddhaAssignment3Q2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/shraddhagourishetty/shraddhaAssignment3Q2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/shraddhagourishetty/shraddhaAssignment3Q5.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/shraddhagourishetty/shraddhaAssignment3Q5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/tmanti/.idea/assignment3a-tmanti.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/tmanti/.idea/assignment3a-tmanti.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/tmanti/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/tmanti/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/tmanti/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/tmanti/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/tmanti/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/tmanti/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/tmanti/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/tmanti/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q1/Thomas_Ingram_A3Q1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q1/Thomas_Ingram_A3Q1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q2/Thomas_Ingram_A3Q2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q2/Thomas_Ingram_A3Q2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q2/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q2/words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q3/Thomas_Ingram_A3Q3.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q3/Thomas_Ingram_A3Q3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q4/Thomas_Ingram_CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q4/Thomas_Ingram_CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q4/Thomas_ingram_A3Q4.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q4/Thomas_ingram_A3Q4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q5/INSTRUCTIONS.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q5/INSTRUCTIONS.TXT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q5/Thomas_Ingram_A3Q5_gameFiles/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q5/Thomas_Ingram_A3Q5_gameFiles/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q5/Thomas_Ingram_A3Q5_gameFiles/Thomas_Ingram_ A3Q5_server/Thomas_Ingram_A3Q5_game_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q5/Thomas_Ingram_A3Q5_gameFiles/Thomas_Ingram_ A3Q5_server/Thomas_Ingram_A3Q5_game_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q5/Thomas_Ingram_A3Q5_gameFiles/Thomas_Ingram_A3Q5_game_client/Thomas_Ingram_A3Q5_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q5/Thomas_Ingram_A3Q5_gameFiles/Thomas_Ingram_A3Q5_game_client/Thomas_Ingram_A3Q5_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/wongc5613/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/wongc5613/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/wongc5613/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/wongc5613/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/wongc5613/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/wongc5613/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/wongc5613/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/wongc5613/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/wongc5613/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2ndPull/Assignment3A-11-29-2018-09-21-17/wongc5613/words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FromGitClassrm/Assignment3A-11-26-2018-10-11-30/DanielNairn/A3Q2.py" beforeDir="false" afterPath="$PROJECT_DIR$/FromGitClassrm/Assignment3A-11-26-2018-10-11-30/DanielNairn/A3Q2.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-147651590">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="5" />
+          <entry key="Scratch" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="397" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="318" />
+          <entry key="Scratch" value="79" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/A3Q1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/A3Q2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="77" selection-start-line="6" selection-start-column="77" selection-end-line="6" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/A3Q3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/A3Q4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/A3Q5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/A3Q1.py" />
+        <option value="$PROJECT_DIR$/A3Q2.py" />
+        <option value="$PROJECT_DIR$/A3Q1.py" />
+        <option value="$PROJECT_DIR$/A3Q4.py" />
+        <option value="$PROJECT_DIR$/A3Q3.py" />
+        <option value="$PROJECT_DIR$/A3Q5.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="14" />
+    <option name="y" value="2" />
+    <option name="width" value="1261" />
+    <option name="height" value="734" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Assignment3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3" type="462c0819:PsiDirectoryNode" />
+              <item name="FromGitClassrm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3" type="462c0819:PsiDirectoryNode" />
+              <item name="FromGitClassrm" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignment3A-11-26-2018-10-11-30" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="Assignment3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="F:/assignment-3-SiddNaik/A3Q2.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\WCI2018-19\ICS3USem1\StudentWork\Assignment3" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="A3Q2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Assignment3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="F:/assignment-3-SiddNaik" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="F:/assignment-3-SiddNaik/A3Q2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.A3Q2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec2abd72-7779-41e1-95c3-fadf601da457" name="Default Changelist" comment="" />
+      <created>1541111395338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541111395338</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="14" y="2" width="1261" height="734" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24938676" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3294509" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="39" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/assignment-3-SiddNaik/A3Q2.py" />
+    <entry file="file://$PROJECT_DIR$/A3Q1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A3Q2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="77" selection-start-line="6" selection-start-column="77" selection-end-line="6" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A3Q3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A3Q4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A3Q5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4dd8c72e-ee44-4bda-bf53-376e9215cec8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Assignment3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A3Q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A3Q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A3Q3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A3Q4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A3Q5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FromGitClassrm/Assignment3A-11-26-2018-10-11-30/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FromGitClassrm/Assignment3A-11-26-2018-10-11-30/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/BahaaDesoky/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/BahaaDesoky/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/BlitherParrot/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/BlitherParrot/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/BlitherParrot/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/BlitherParrot/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/BlitherParrot/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/BlitherParrot/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/BlitherParrot/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/BlitherParrot/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/BlitherParrot/resources/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/BlitherParrot/resources/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/ChrisLee0727/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/ChrisLee0727/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/ChrisLee0727/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/ChrisLee0727/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/ChrisLee0727/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/ChrisLee0727/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/ChrisLee0727/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/ChrisLee0727/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/ChrisLee0727/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/ChrisLee0727/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/ChrisLee0727/wordlist.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/ChrisLee0727/wordlist.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/DanielNairn/.idea/assignment3a-DanielNairn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/DanielNairn/.idea/assignment3a-DanielNairn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/DanielNairn/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/DanielNairn/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/DanielNairn/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/DanielNairn/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/DanielNairn/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/DanielNairn/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/DanielNairn/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/DanielNairn/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/DanielNairn/Daniel.N.PM&amp;PC.A3.Q1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/DanielNairn/Daniel.N.PM&amp;PC.A3.Q1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/DanielNairn/Daniel.N.PM&amp;PC.A3.Q2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/DanielNairn/Daniel.N.PM&amp;PC.A3.Q2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/DanielNairn/Daniel.N.PM&amp;PC.A3.Q3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/DanielNairn/Daniel.N.PM&amp;PC.A3.Q3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/DanielNairn/Daniel.N.PM&amp;PC.A3.Q4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/DanielNairn/Daniel.N.PM&amp;PC.A3.Q4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/DanielNairn/Daniel.N.PM&amp;PC.A3.Q5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/DanielNairn/Daniel.N.PM&amp;PC.A3.Q5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/DanielNairn/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/DanielNairn/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/DanielNairn/Word_Bank.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/DanielNairn/Word_Bank.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/DanielNairn/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/DanielNairn/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/FarazHossein/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/FarazHossein/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/FarazHossein/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/FarazHossein/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/JackieTreacy/CardClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/JackieTreacy/CardClass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/JackieTreacy/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/JackieTreacy/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/JackieTreacy/JackieTPM&amp;PCA3Q1_trace_table.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/JackieTreacy/JackieTPM&amp;PCA3Q1_trace_table.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/JackieTreacy/JackieTQ2words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/JackieTreacy/JackieTQ2words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/JackieTreacy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/JackieTreacy/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/JackieTreacy/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/JackieTreacy/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/JackieTreacy/msdie.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/JackieTreacy/msdie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/Riolku/CardClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/Riolku/CardClass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/Riolku/CardClassPyGameMerged.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/Riolku/CardClassPyGameMerged.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/Riolku/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/Riolku/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/Riolku/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/Riolku/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/Riolku/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/Riolku/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/Riolku/resources/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/Riolku/resources/words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/RobertIlyes/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/RobertIlyes/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/RobertIlyes/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/RobertIlyes/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/RobertIlyes/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/RobertIlyes/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/RobertIlyes/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/RobertIlyes/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/ShawntheSun/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/ShawntheSun/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/ShawntheSun/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/ShawntheSun/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/ShawntheSun/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/ShawntheSun/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/ShawntheSun/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/ShawntheSun/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/ShawntheSun/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/ShawntheSun/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/dentt3534/.idea/assignment3a-dentt3534.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/dentt3534/.idea/assignment3a-dentt3534.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/dentt3534/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/dentt3534/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/dentt3534/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/dentt3534/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/dentt3534/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/dentt3534/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/dentt3534/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/dentt3534/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/dentt3534/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/dentt3534/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/dentt3534/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/dentt3534/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/dentt3534/Hardware.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/dentt3534/Hardware.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/dentt3534/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/dentt3534/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/dentt3534/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/dentt3534/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/hoe7676/.idea/assignment-3-hoe7676.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/hoe7676/.idea/assignment-3-hoe7676.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/hoe7676/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/hoe7676/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/hoe7676/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/hoe7676/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/hoe7676/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/hoe7676/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/hoe7676/resources/dices/.idea/dices.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/hoe7676/resources/dices/.idea/dices.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/hoe7676/resources/dices/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/hoe7676/resources/dices/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/hoe7676/resources/dices/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/hoe7676/resources/dices/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/hoe7676/resources/dices/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/hoe7676/resources/dices/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/.idea/assignment3a-rhibrundrett.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/.idea/assignment3a-rhibrundrett.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/A3Q1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/A3Q1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/A3Q2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/A3Q2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/A3Q3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/A3Q3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/A3Q4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/A3Q4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/A3Q5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/A3Q5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/HardwareComponents.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/HardwareComponents.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/msdie.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/rhibrundrett/msdie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/shraddhagourishetty/shraddhaAssignment3Q2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/shraddhagourishetty/shraddhaAssignment3Q2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/shraddhagourishetty/shraddhaAssignment3Q5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/shraddhagourishetty/shraddhaAssignment3Q5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/tmanti/.idea/assignment3a-tmanti.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/tmanti/.idea/assignment3a-tmanti.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/tmanti/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/tmanti/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/tmanti/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/tmanti/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/tmanti/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/tmanti/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/tmanti/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/tmanti/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q1/Thomas_Ingram_A3Q1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q1/Thomas_Ingram_A3Q1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q2/Thomas_Ingram_A3Q2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q2/Thomas_Ingram_A3Q2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q2/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q2/words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q3/Thomas_Ingram_A3Q3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q3/Thomas_Ingram_A3Q3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q4/Thomas_Ingram_CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q4/Thomas_Ingram_CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q4/Thomas_ingram_A3Q4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q4/Thomas_ingram_A3Q4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q5/INSTRUCTIONS.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q5/INSTRUCTIONS.TXT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q5/Thomas_Ingram_A3Q5_gameFiles/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q5/Thomas_Ingram_A3Q5_gameFiles/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q5/Thomas_Ingram_A3Q5_gameFiles/Thomas_Ingram_ A3Q5_server/Thomas_Ingram_A3Q5_game_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q5/Thomas_Ingram_A3Q5_gameFiles/Thomas_Ingram_ A3Q5_server/Thomas_Ingram_A3Q5_game_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q5/Thomas_Ingram_A3Q5_gameFiles/Thomas_Ingram_A3Q5_game_client/Thomas_Ingram_A3Q5_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/tmanti/ThomasA3Q5/Thomas_Ingram_A3Q5_gameFiles/Thomas_Ingram_A3Q5_game_client/Thomas_Ingram_A3Q5_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/wongc5613/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/wongc5613/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/wongc5613/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/wongc5613/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/wongc5613/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/wongc5613/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/wongc5613/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/wongc5613/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/wongc5613/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/wongc5613/words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/Albert2113/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/Albert2113/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/Albert2113/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/Albert2113/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/Albert2113/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/Albert2113/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/Albert2113/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/Albert2113/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/BeanLuu/BenPM&amp;PCA3Q1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/BeanLuu/BenPM&amp;PCA3Q1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/BeanLuu/BenPM&amp;PCA3Q2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/BeanLuu/BenPM&amp;PCA3Q2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/BeanLuu/BenPM&amp;PCA3Q3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/BeanLuu/BenPM&amp;PCA3Q3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/BeanLuu/BenPM&amp;PCA3Q4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/BeanLuu/BenPM&amp;PCA3Q4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/BeanLuu/BenPM&amp;PCA3Q5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/BeanLuu/BenPM&amp;PCA3Q5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/BeanLuu/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/BeanLuu/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/BeanLuu/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/BeanLuu/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/BeanLuu/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/BeanLuu/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/BeanLuu/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/BeanLuu/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/BeanLuu/components.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/BeanLuu/components.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/BlitherParrot/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/BlitherParrot/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/BlitherParrot/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/BlitherParrot/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/BlitherParrot/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/BlitherParrot/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/BlitherParrot/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/BlitherParrot/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/BlitherParrot/resources/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/BlitherParrot/resources/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/ChrisLee0727/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/ChrisLee0727/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/ChrisLee0727/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/ChrisLee0727/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/ChrisLee0727/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/ChrisLee0727/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/ChrisLee0727/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/ChrisLee0727/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/ChrisLee0727/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/ChrisLee0727/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/ChrisLee0727/wordlist.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/ChrisLee0727/wordlist.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/DanielNairn/.idea/assignment3a-DanielNairn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/DanielNairn/.idea/assignment3a-DanielNairn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/DanielNairn/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/DanielNairn/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/DanielNairn/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/DanielNairn/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/DanielNairn/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/DanielNairn/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/DanielNairn/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/DanielNairn/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/DanielNairn/Daniel.N.PM&amp;PC.A3.Q1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/DanielNairn/Daniel.N.PM&amp;PC.A3.Q1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/DanielNairn/Daniel.N.PM&amp;PC.A3.Q2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/DanielNairn/Daniel.N.PM&amp;PC.A3.Q2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/DanielNairn/Daniel.N.PM&amp;PC.A3.Q3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/DanielNairn/Daniel.N.PM&amp;PC.A3.Q3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/DanielNairn/Daniel.N.PM&amp;PC.A3.Q4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/DanielNairn/Daniel.N.PM&amp;PC.A3.Q4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/DanielNairn/Daniel.N.PM&amp;PC.A3.Q5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/DanielNairn/Daniel.N.PM&amp;PC.A3.Q5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/DanielNairn/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/DanielNairn/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/DanielNairn/Word_Bank.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/DanielNairn/Word_Bank.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/DanielNairn/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/DanielNairn/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/FarazHossein/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/FarazHossein/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/FarazHossein/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/FarazHossein/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/JackieTreacy/CardClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/JackieTreacy/CardClass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/JackieTreacy/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/JackieTreacy/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/JackieTreacy/JackieTPM&amp;PCA3Q1_trace_table.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/JackieTreacy/JackieTPM&amp;PCA3Q1_trace_table.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/JackieTreacy/JackieTQ2words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/JackieTreacy/JackieTQ2words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/JackieTreacy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/JackieTreacy/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/JackieTreacy/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/JackieTreacy/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/JackieTreacy/msdie.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/JackieTreacy/msdie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/RaiAli1/.idea/Assignment 3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/RaiAli1/.idea/Assignment 3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/RaiAli1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/RaiAli1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/RaiAli1/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/RaiAli1/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/RaiAli1/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/RaiAli1/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/RaiAli1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/RaiAli1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/RaiAli1/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/RaiAli1/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/Riolku/CardClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/Riolku/CardClass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/Riolku/CardClassPyGameMerged.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/Riolku/CardClassPyGameMerged.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/Riolku/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/Riolku/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/Riolku/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/Riolku/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/Riolku/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/Riolku/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/Riolku/resources/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/Riolku/resources/words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/RobertIlyes/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/RobertIlyes/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/RobertIlyes/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/RobertIlyes/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/RobertIlyes/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/RobertIlyes/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/RobertIlyes/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/RobertIlyes/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/ShawntheSun/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/ShawntheSun/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/ShawntheSun/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/ShawntheSun/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/ShawntheSun/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/ShawntheSun/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/ShawntheSun/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/ShawntheSun/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/ShawntheSun/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/ShawntheSun/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/SiddNaik/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/SiddNaik/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/SiddNaik/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/SiddNaik/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/SiddNaik/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/SiddNaik/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/SiddNaik/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/SiddNaik/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/SiddNaik/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/SiddNaik/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/amazingness222/.idea/dictionaries/banwp5018.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/amazingness222/.idea/dictionaries/banwp5018.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/amazingness222/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/amazingness222/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/amazingness222/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/amazingness222/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/amazingness222/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/amazingness222/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/amazingness222/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/amazingness222/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/amazingness222/Dieclass.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/amazingness222/Dieclass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/amazingness222/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/amazingness222/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/amazingness222/Words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/amazingness222/Words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/amazingness222/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/amazingness222/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/dentt3534/.idea/assignment3a-dentt3534.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/dentt3534/.idea/assignment3a-dentt3534.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/dentt3534/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/dentt3534/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/dentt3534/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/dentt3534/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/dentt3534/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/dentt3534/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/dentt3534/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/dentt3534/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/dentt3534/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/dentt3534/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/dentt3534/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/dentt3534/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/dentt3534/Hardware.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/dentt3534/Hardware.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/dentt3534/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/dentt3534/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/dentt3534/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/dentt3534/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/hoe7676/.idea/assignment-3-hoe7676.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/hoe7676/.idea/assignment-3-hoe7676.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/hoe7676/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/hoe7676/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/hoe7676/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/hoe7676/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/hoe7676/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/hoe7676/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/hoe7676/resources/dices/.idea/dices.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/hoe7676/resources/dices/.idea/dices.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/hoe7676/resources/dices/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/hoe7676/resources/dices/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/hoe7676/resources/dices/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/hoe7676/resources/dices/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/hoe7676/resources/dices/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/hoe7676/resources/dices/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/.idea/assignment3a-rhibrundrett.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/.idea/assignment3a-rhibrundrett.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/A3Q1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/A3Q1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/A3Q2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/A3Q2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/A3Q3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/A3Q3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/A3Q4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/A3Q4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/A3Q5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/A3Q5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/HardwareComponents.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/HardwareComponents.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/msdie.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rhibrundrett/msdie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/.idea/RickLPM&amp;PCA3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/.idea/RickLPM&amp;PCA3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/RickLPM&amp;PCA3Q1/RickLPM&amp;PCA3Q1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/RickLPM&amp;PCA3Q1/RickLPM&amp;PCA3Q1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/RickLPM&amp;PCA3Q2/RickLPM&amp;PCA3Q2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/RickLPM&amp;PCA3Q2/RickLPM&amp;PCA3Q2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/RickLPM&amp;PCA3Q2/ScreenThread.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/RickLPM&amp;PCA3Q2/ScreenThread.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/RickLPM&amp;PCA3Q2/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/RickLPM&amp;PCA3Q2/words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/RickLPM&amp;PCA3Q3/RickLPM&amp;PCA3Q3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/RickLPM&amp;PCA3Q3/RickLPM&amp;PCA3Q3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/RickLPM&amp;PCA3Q3/msdie.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/RickLPM&amp;PCA3Q3/msdie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/RickLPM&amp;PCA3Q3/score_board.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/RickLPM&amp;PCA3Q3/score_board.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/RickLPM&amp;PCA3Q4/CardClassPyGameMerged.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/RickLPM&amp;PCA3Q4/CardClassPyGameMerged.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/RickLPM&amp;PCA3Q4/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/RickLPM&amp;PCA3Q4/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/RickLPM&amp;PCA3Q4/RickLPM&amp;PCA3Q4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/RickLPM&amp;PCA3Q4/RickLPM&amp;PCA3Q4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/RickLPM&amp;PCA3Q5/RickLPM&amp;PCA3Q5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/RickLPM&amp;PCA3Q5/RickLPM&amp;PCA3Q5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/RickLPM&amp;PCA3Q5/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/rickliuisacoolguy/RickLPM&amp;PCA3Q5/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/shraddhagourishetty/.idea/aasignment3a.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/shraddhagourishetty/.idea/aasignment3a.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/shraddhagourishetty/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/shraddhagourishetty/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/shraddhagourishetty/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/shraddhagourishetty/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/shraddhagourishetty/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/shraddhagourishetty/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/shraddhagourishetty/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/shraddhagourishetty/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/shraddhagourishetty/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/shraddhagourishetty/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/shraddhagourishetty/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/shraddhagourishetty/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/shraddhagourishetty/ShraddhaAssignment3Q1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/shraddhagourishetty/ShraddhaAssignment3Q1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/shraddhagourishetty/ShraddhaAssignment3Q3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/shraddhagourishetty/ShraddhaAssignment3Q3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/shraddhagourishetty/ShraddhaAssignment3Q4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/shraddhagourishetty/ShraddhaAssignment3Q4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/shraddhagourishetty/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/shraddhagourishetty/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/shraddhagourishetty/shraddhaAssignment3Q2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/shraddhagourishetty/shraddhaAssignment3Q2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/shraddhagourishetty/shraddhaAssignment3Q5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/shraddhagourishetty/shraddhaAssignment3Q5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/tmanti/.idea/assignment3a-tmanti.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/tmanti/.idea/assignment3a-tmanti.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/tmanti/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/tmanti/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/tmanti/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/tmanti/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/tmanti/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/tmanti/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/tmanti/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/tmanti/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/tmanti/ThomasA3Q1/Thomas_Ingram_A3Q1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/tmanti/ThomasA3Q1/Thomas_Ingram_A3Q1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/tmanti/ThomasA3Q2/Thomas_Ingram_A3Q2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/tmanti/ThomasA3Q2/Thomas_Ingram_A3Q2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/tmanti/ThomasA3Q2/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/tmanti/ThomasA3Q2/words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/tmanti/ThomasA3Q3/Thomas_Ingram_A3Q3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/tmanti/ThomasA3Q3/Thomas_Ingram_A3Q3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/tmanti/ThomasA3Q4/Thomas_Ingram_CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/tmanti/ThomasA3Q4/Thomas_Ingram_CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/tmanti/ThomasA3Q4/Thomas_ingram_A3Q4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/tmanti/ThomasA3Q4/Thomas_ingram_A3Q4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/tmanti/ThomasA3Q5/INSTRUCTIONS.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/tmanti/ThomasA3Q5/INSTRUCTIONS.TXT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/tmanti/ThomasA3Q5/Thomas_Ingram_A3Q5_gameFiles/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/tmanti/ThomasA3Q5/Thomas_Ingram_A3Q5_gameFiles/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/tmanti/ThomasA3Q5/Thomas_Ingram_A3Q5_gameFiles/Thomas_Ingram_ A3Q5_server/Thomas_Ingram_A3Q5_game_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/tmanti/ThomasA3Q5/Thomas_Ingram_A3Q5_gameFiles/Thomas_Ingram_ A3Q5_server/Thomas_Ingram_A3Q5_game_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/tmanti/ThomasA3Q5/Thomas_Ingram_A3Q5_gameFiles/Thomas_Ingram_A3Q5_game_client/Thomas_Ingram_A3Q5_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/tmanti/ThomasA3Q5/Thomas_Ingram_A3Q5_gameFiles/Thomas_Ingram_A3Q5_game_client/Thomas_Ingram_A3Q5_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/wongc5613/.idea/Assignment3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/wongc5613/.idea/Assignment3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/wongc5613/.idea/assignment-3-wongc5613.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/wongc5613/.idea/assignment-3-wongc5613.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/wongc5613/.idea/assignment3a-wongc5613.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/wongc5613/.idea/assignment3a-wongc5613.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/wongc5613/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/wongc5613/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/wongc5613/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/wongc5613/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/wongc5613/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/wongc5613/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/wongc5613/A3Q4Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/wongc5613/A3Q4Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/wongc5613/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/wongc5613/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/wongc5613/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/wongc5613/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/wongc5613/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/wongc5613/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/wongc5613/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/wongc5613/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/wongc5613/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-24-27/wongc5613/words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/DanielNairn/.idea/assignment3a-DanielNairn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/DanielNairn/.idea/assignment3a-DanielNairn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/DanielNairn/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/DanielNairn/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/DanielNairn/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/DanielNairn/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/DanielNairn/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/DanielNairn/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/DanielNairn/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/DanielNairn/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/DanielNairn/Daniel.N.PM&amp;PC.A3.Q1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/DanielNairn/Daniel.N.PM&amp;PC.A3.Q1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/DanielNairn/Daniel.N.PM&amp;PC.A3.Q2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/DanielNairn/Daniel.N.PM&amp;PC.A3.Q2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/DanielNairn/Daniel.N.PM&amp;PC.A3.Q3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/DanielNairn/Daniel.N.PM&amp;PC.A3.Q3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/DanielNairn/Daniel.N.PM&amp;PC.A3.Q4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/DanielNairn/Daniel.N.PM&amp;PC.A3.Q4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/DanielNairn/Daniel.N.PM&amp;PC.A3.Q5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/DanielNairn/Daniel.N.PM&amp;PC.A3.Q5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/DanielNairn/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/DanielNairn/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/DanielNairn/Word_Bank.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/DanielNairn/Word_Bank.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/DanielNairn/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/DanielNairn/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/FarazHossein/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/FarazHossein/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/FarazHossein/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/FarazHossein/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/RaiAli1/.idea/Assignment 3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/RaiAli1/.idea/Assignment 3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/RaiAli1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/RaiAli1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/RaiAli1/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/RaiAli1/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/RaiAli1/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/RaiAli1/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/RaiAli1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/RaiAli1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/RaiAli1/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/RaiAli1/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/Riolku/CardClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/Riolku/CardClass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/Riolku/CardClassPyGameMerged.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/Riolku/CardClassPyGameMerged.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/Riolku/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/Riolku/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/Riolku/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/Riolku/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/Riolku/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/Riolku/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/Riolku/resources/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/Riolku/resources/words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/RobertIlyes/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/RobertIlyes/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/RobertIlyes/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/RobertIlyes/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/RobertIlyes/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/RobertIlyes/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/RobertIlyes/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/RobertIlyes/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/ShawntheSun/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/ShawntheSun/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/ShawntheSun/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/ShawntheSun/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/ShawntheSun/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/ShawntheSun/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/ShawntheSun/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/ShawntheSun/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/ShawntheSun/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/ShawntheSun/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/SiddNaik/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/SiddNaik/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/SiddNaik/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/SiddNaik/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/SiddNaik/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/SiddNaik/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/SiddNaik/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/SiddNaik/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/SiddNaik/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/SiddNaik/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/dentt3534/.idea/assignment3a-dentt3534.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/dentt3534/.idea/assignment3a-dentt3534.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/dentt3534/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/dentt3534/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/dentt3534/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/dentt3534/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/dentt3534/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/dentt3534/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/dentt3534/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/dentt3534/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/dentt3534/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/dentt3534/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/dentt3534/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/dentt3534/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/dentt3534/Hardware.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/dentt3534/Hardware.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/dentt3534/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/dentt3534/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/dentt3534/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/dentt3534/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/hoe7676/.idea/assignment-3-hoe7676.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/hoe7676/.idea/assignment-3-hoe7676.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/hoe7676/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/hoe7676/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/hoe7676/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/hoe7676/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/hoe7676/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/hoe7676/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/hoe7676/resources/dices/.idea/dices.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/hoe7676/resources/dices/.idea/dices.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/hoe7676/resources/dices/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/hoe7676/resources/dices/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/hoe7676/resources/dices/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/hoe7676/resources/dices/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/hoe7676/resources/dices/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/hoe7676/resources/dices/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/.idea/assignment3a-rhibrundrett.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/.idea/assignment3a-rhibrundrett.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/A3Q1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/A3Q1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/A3Q2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/A3Q2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/A3Q3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/A3Q3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/A3Q4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/A3Q4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/A3Q5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/A3Q5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/HardwareComponents.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/HardwareComponents.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/msdie.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rhibrundrett/msdie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rickliuisacoolguy/RickLPM&amp;PCA3Q5/RickLPM&amp;PCA3Q5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rickliuisacoolguy/RickLPM&amp;PCA3Q5/RickLPM&amp;PCA3Q5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rickliuisacoolguy/RickLPM&amp;PCA3Q5/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/rickliuisacoolguy/RickLPM&amp;PCA3Q5/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/shraddhagourishetty/.idea/aasignment3a.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/shraddhagourishetty/.idea/aasignment3a.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/shraddhagourishetty/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/shraddhagourishetty/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/shraddhagourishetty/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/shraddhagourishetty/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/shraddhagourishetty/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/shraddhagourishetty/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/shraddhagourishetty/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/shraddhagourishetty/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/shraddhagourishetty/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/shraddhagourishetty/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/shraddhagourishetty/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/shraddhagourishetty/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/shraddhagourishetty/ShraddhaAssignment3Q1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/shraddhagourishetty/ShraddhaAssignment3Q1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/shraddhagourishetty/ShraddhaAssignment3Q3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/shraddhagourishetty/ShraddhaAssignment3Q3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/shraddhagourishetty/ShraddhaAssignment3Q4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/shraddhagourishetty/ShraddhaAssignment3Q4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/shraddhagourishetty/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/shraddhagourishetty/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/shraddhagourishetty/shraddhaAssignment3Q2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/shraddhagourishetty/shraddhaAssignment3Q2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/shraddhagourishetty/shraddhaAssignment3Q5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/shraddhagourishetty/shraddhaAssignment3Q5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/wongc5613/.idea/Assignment3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/wongc5613/.idea/Assignment3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/wongc5613/.idea/assignment-3-wongc5613.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/wongc5613/.idea/assignment-3-wongc5613.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/wongc5613/.idea/assignment3a-wongc5613.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/wongc5613/.idea/assignment3a-wongc5613.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/wongc5613/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/wongc5613/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/wongc5613/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/wongc5613/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/wongc5613/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/wongc5613/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/wongc5613/A3Q4Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/wongc5613/A3Q4Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/wongc5613/CardClassPyGameMerged" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/wongc5613/CardClassPyGameMerged" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/wongc5613/CardClassTurtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/wongc5613/CardClassTurtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/wongc5613/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/wongc5613/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/wongc5613/basicSprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/wongc5613/basicSprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/wongc5613/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3A-11-29-2018-10-29-50/wongc5613/words.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="705879785">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/dentt3534" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="14" />
+    <option name="y" value="2" />
+    <option name="width" value="1261" />
+    <option name="height" value="734" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="2ndPull" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2ndPull" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="2ndPull" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FromGitClassrm/Assignment3A-11-26-2018-10-11-30" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4dd8c72e-ee44-4bda-bf53-376e9215cec8" name="Default Changelist" comment="" />
+      <created>1543504763866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543504763866</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="14" y="2" width="1261" height="734" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24938676" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/FarazHossein/A3Q2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/FarazHossein/A3Q3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/FarazHossein/A3Q4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/RaiAli1/A3Q5.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/FarazHossein/A3Q1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment3A-11-29-2018-09-21-17/dentt3534/A3Q5.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
